@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AI617: Team Minseung Lee and Haeju Lee
 
 You can use the [editor on GitHub](https://github.com/heyzude/AI617_TermProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
