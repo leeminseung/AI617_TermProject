@@ -33,6 +33,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heyzude/AI617_TermProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
+
+![Mujoco Half-Cheetah](/AI617_TermProject/docs/assets/스크린샷, 2022-06-08 00-58-19.png)
+
 <video src="https://user-images.githubusercontent.com/12981081/174081987-bbf4c607-c214-4c30-a851-f6c177efbab4.mp4" controls="controls" style="max-width: 730px;">
 </video>  
 
