@@ -32,8 +32,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heyzude/AI617_TermProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<video src="https://user-images.githubusercontent.com/12981081/174081987-bbf4c607-c214-4c30-a851-f6c177efbab4.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-  
+
+<video src="https://user-images.githubusercontent.com/12981081/174081987-bbf4c607-c214-4c30-a851-f6c177efbab4.mp4" controls="controls" style="max-width: 730px;">
+</video>  
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
