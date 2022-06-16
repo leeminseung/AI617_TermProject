@@ -32,10 +32,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 
-<!-- ![Mujoco Half-Cheetah](docs/assets/mujoco.png) -->
+![Mujoco Half-Cheetah](docs/assets/mujoco.png)
 
-<!-- <video src="https://user-images.githubusercontent.com/12981081/174081987-bbf4c607-c214-4c30-a851-f6c177efbab4.mp4" controls="controls" style="max-width: 730px;">
-</video>  -->
+<video src="https://user-images.githubusercontent.com/12981081/174081987-bbf4c607-c214-4c30-a851-f6c177efbab4.mp4" controls="controls" style="max-width: 730px;">
+</video> 
 
 
 ### Support or Contact
